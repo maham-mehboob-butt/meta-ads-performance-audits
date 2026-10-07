@@ -7,10 +7,10 @@ A data-driven performance audit and creative optimization study evaluating live 
 ## 📸 Campaign Performance Screenshots
 
 ### Campaign 1: Baseline Single-Product Focus
-![Meta Ad Campaign 1 Dashboard](assets/meta-ad-campaign1.png)
+![Meta Ad Campaign 1 Dashboard](assests/meta-ad-campaign1.png)
 
 ### Campaign 2: Winning Multi-Product Creative
-![Meta Ad Campaign 2 Dashboard](assets/meta-ad-campaign2.png)
+![Meta Ad Campaign 2 Dashboard](assests/meta-ad-campaign2.png)
 
 ---
 
